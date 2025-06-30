@@ -47,3 +47,8 @@ cargo audit
 ```
 
 Use the following to setup [GitHub Actions](https://github.com/LukeMathWalker/zero-to-production/tree/root-chapter-03-part0/.github/workflows)
+
+The web framework that is going to be user is `actix-web`:
+- [actix-web's website](https://actix.rs)
+- [actix-web's documentation](https://docs.rs/actix-web/4.0.1/actix_web/index.html)
+- [actix-web's examples collection](https://github.com/actix/examples)
